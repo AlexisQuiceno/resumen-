@@ -1,0 +1,34 @@
+Lógica para el desarrollo web
+La industria de la tecnología en un ámbito muy extenso he importante para nuestra sociedad actual, 
+puesto que usamos estas herramientas todo el tiempo. Uno de los elementos que utilizamos y consumimos 
+en mayor medida es la tecnología web. Es por esto que cuando vamos a aprender sobre la web debemos 
+conocer su historia y buscar el desarrollo de nuestra lógica al mismo tiempo.
+Aquí hablare tres primeros cursos vistos en Prosperita y Platzi.
+Historia: Uno de los primeros dispositivos usados para hacer cálculos fue el Abaco el cual se utilizaba
+ para simplificar la forma en que hacíamos cuentas, este aparato sirvió como punto de partida para la creación
+ de las primeras computadores mecánicas las cuales funcionaban a base de engranes, posterior mente se definió
+ el concepto de maquina abstracta interpretada como el concepto de computadora con sus características principales
+ aisladas para su análisis, esta máquina es la base para comprender las operaciones más básicas que puede realizar
+ en un dispositivo de computo; prosear datos, controlar secuencias, transmisión de datos, manejo de memoria.
+Lenguajes de programación: Los dispositivo de computo están sujetos a los lenguajes de programación, estos son sistemas
+ creados para simplificar la forma en que le damos instrucciones a la máquina, estos los utilizamos en la creación 
+de algoritmos y programas que nos permitan resolver problemas, algunos de los lenguajes de los cuales vimos un poco fueron;
+ PHP, JAVA, JavaScript, Python.
+Paradigma de Programación: La programación está ligada a ciertos paradigmas; estos nos ayudan a clasificar los lenguajes 
+de programación y a definir un estilo o forma en la que resolvemos un problema mediante código, entre los paradigmas más
+ conocidos están; paradigma imperativo, paradigma declarativo, y para digna dirigido a eventos, de estos se derivan algunos
+ otros como el paradigma estructurado, paradigma procedural, paradigma de programación orientada a objetos entre otros.
+Lógica: Otra cosa importante al momento de programar es la lógica ya que es fundamental  para resolver problemas, con esta 
+podemos aprender a fragmentando un problema en procesos pequeños más simples de resolver, con esto optimizamos nuestro código 
+haciéndolo preciso, definido y finito, esto lo logramos mucho mejor usando una metodología al momento de hacer nuestros algoritmos;
+ definiendo el problema, analizando el problema, diseñándolo y haciéndole pruebas.
+Historia web: Aunque ligada estrictamente a la programación la web ha tenido su propia historia y avances, entre esos podemos 
+referirnos al proyecto Arpanet este elemento fue desarrollado en estados unido para  conectar computadoras que se encontraban
+ alejadas unas de las otras, con esto se potencio la creación de otras tecnologías lo que llevo a la necesidad de crear
+ estándares que hicieran que todas estas herramientas fuera compatible, puesto que cada organización creaba un esquema
+ diferente para sus equipos y productos, entre los protocolos que hoy usamos están; TCP/IP, DNS, HTTP/HTTPS. 
+Tim Berners-Lee fue el primer programador web y padre de la misma, el creo las principales tecnologías que seguimos
+ usando hoy en día (HTML, URL, HTTP), 
+Las tres tecnologías y estándares de las páginas web en si hoy por hoy son (HTML; CSS; JavaScript): HTML;
+ le da la estructura al contenido de nuestra página, CSS; nos define estilos propios y vistosos a lo 
+hecho con html, JavaScript; este es el lenguaje de programación con el cual creamos la interacción de nuestras páginas webs. 
